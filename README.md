@@ -26,11 +26,10 @@ def gcd():
             hcf=i
     print("GCD of two numbers is:",hcf)
 ```
-/*
+```
 Program to find the gcd of two number using function.
 Developed by: 
 RegisterNumber:  
-*/
 ```
 
 ## Output:
