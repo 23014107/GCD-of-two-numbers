@@ -34,8 +34,9 @@ RegisterNumber:
 ```
 
 ## Output:
-[output](![alt text](<gcd of two.png>))
+
+![output](gcd.png)
 
 
 ## Result:
-Thus the program to find the GCD of two numbers is written and verified using python programming.
+The output is verified
