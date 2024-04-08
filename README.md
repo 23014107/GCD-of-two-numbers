@@ -1,4 +1,7 @@
 # Find the GCD of two numbers
+NAME:RAMYA.P
+REG NO:212223240137
+DEPT:AIML
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
